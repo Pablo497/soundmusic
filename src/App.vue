@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="dist/logo.png">
+    <img src="https://pablo497.github.io/soundmusic/dist/logo.png">
     <h1>SoundMusic</h1>
     <select v-model="selectedCountry"> 
       <option v-for="country in countries" :value="country.value">
