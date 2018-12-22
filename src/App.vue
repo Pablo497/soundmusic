@@ -1,4 +1,3 @@
-<title>Sound Music</title>
 <template>
   <div id="app">
     <img src="https://pablo497.github.io/soundmusic/dist/logo.png">
